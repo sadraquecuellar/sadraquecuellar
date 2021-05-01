@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadraque Cuellar</h1>
-<h3 align="center">Developer React / React tNative in HSPW - Healthy & Safe Place to Work</h3>
+<h3 align="center">Developer React / React Native in HSPW - Healthy & Safe Place to Work</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
