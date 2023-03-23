@@ -10,5 +10,5 @@ const developer = {
 }
 console.log(developer)
 ```
-![sadraque github stats](https://github-readme-stats.vercel.app/api?username=sadraquecuellar&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadraquecuellar&layout=compact&langs_count=7&theme=dark)
+<!-- ![sadraque github stats](https://github-readme-stats.vercel.app/api?username=sadraquecuellar&show_icons=true&theme=dark) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadraquecuellar&layout=compact&langs_count=7&theme=dark) -->
