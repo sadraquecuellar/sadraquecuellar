@@ -1,7 +1,7 @@
 ``` js
 const developer = {
     "name": "Sadraque Cuellar",
-    "who": "Full Stack Developer in HSPW - Healthy & Safe Place to Work - | React Native | React.js | Node.js",
+    "who": "Full Stack Developer | React Native | React.js | Node.js",
     "profiles": {
         "linkedIn": "https://www.linkedin.com/in/sadraquecuellar/",
         "instagram": "https://www.instagram.com/sadraquecuellar/"
