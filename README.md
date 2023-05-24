@@ -2,7 +2,7 @@
 const developer = {
     "name": "Sadraque Cuellar",
     "who": "Full Stack Developer",
-    "techs": "React Native | React.js | Node.js | .Net Maui | C# | Xamarin"
+    "techs": "React Native | React.js | Node.js | ASP NET | .NET MAUI | C# "
     "profiles": {
         "linkedIn": "https://www.linkedin.com/in/sadraquecuellar/",
         "instagram": "https://www.instagram.com/sadraquecuellar/"
