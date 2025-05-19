@@ -4,8 +4,7 @@ const developer = {
     "who": "Full Stack Developer",
     "techs": ".NET | ASP .NET | MAUI | C# | React| React Native | Node "
     "profiles": {
-        "linkedIn": "https://www.linkedin.com/in/sadraquecuellar/",
-        "instagram": "https://www.instagram.com/sadraquecuellar/"
+        "linkedIn": "https://www.linkedin.com/in/sadraquecuellar/"
     },
     "homepage": "https://sadraque.com.br/"
 }
